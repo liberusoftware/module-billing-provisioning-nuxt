@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-provisioning-nuxt",
+  "capabilityKey": "liberusoftware/module-billing-provisioning",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-billing-provisioning-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/billing/nextjs/provisioning.md",
+  "presentationPlan": "projects/billing/nuxt/provisioning.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
